@@ -1,7 +1,7 @@
 const photos = [
-  { src: "images/foto1.JPG", caption: "one of my favorite moments" },
-  { src: "images/foto2.JPG", caption: "a little memory with you" },
-  { src: "images/foto3.JPG", caption: "glad we made this memory" },
+  { src: "images/foto1.jpg", caption: "one of my favorite moments" },
+  { src: "images/foto2.jpg", caption: "a little memory with you" },
+  { src: "images/foto3.jpg", caption: "glad we made this memory" },
   { src: "images/foto4.jpg", caption: "you make ordinary days better" },
   { src: "images/foto5.jpg", caption: "more moments like this, please" }
 ];
